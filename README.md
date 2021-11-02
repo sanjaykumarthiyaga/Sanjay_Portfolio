@@ -7,7 +7,7 @@ Projects of data analysis
       •	 The peak positions of the top players are found using a heat map .
       •	 Based on the insights useful strategy has been built for mid level players to compete with the top  players.
       
-# [Project 2 : Breast cancer analysis](https://github.com/sanjaykumarthiyaga/datamining/commit/d7140710413ea9476b0327b17698f02bcb725ddf)
+# [Project 2 : Breast cancer analysis]
       •	 Classifying the breast cancer type: Malignant and Benign using real-valued features such as radius, texture, perimeter.
       •	 The datas are normalised and than algorithm such as KNN , fishers LDA , liner discriminant analysis are applied to find the accuracy.
       •	 On the same dataset the PCA is applied by creating correlation matrix by using the found eigen values and eigen vectors
