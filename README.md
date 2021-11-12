@@ -17,4 +17,9 @@ Projects of data analysis
       • Using the Capex and Opex for five years , it is than calculated for the next 20 years.
       • Along with the Capex and Opex , the Total cost expenditure of the three organisation are found. 
       • Atlast the organisation with the minimum Total cost expenditure is found.
+# [Project 4: EMI calculator](https://github.com/sanjaykumarthiyaga/Total-Cost-expenditure-)
+      • An EMI calculator for a Bank is created.
+      • Using the user input i.e interest rate , years , principal amount , the EMI per month is calculated
+      • The calculated monthly payment is displayed in a table to make it easy understandabale
+      
       
