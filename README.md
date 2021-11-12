@@ -1,6 +1,6 @@
 # Sanjay_Portfolio
 Projects of data analysis
-# [Project 1 : Exploratory data analysis on PUBG](https://www.linkedin.com/posts/sanjaykumar-thiyagarajan-6a9817203_strategy-to-compete-with-top-level-players-activity-6805091647412686848-l-SB)
+# [Project 1 : Exploratory data analysis on PUBG](https://github.com/sanjaykumarthiyaga/Exploratory-data-analysis)
       •	 A strategy is created to improve mid-level players ranking and K/D by doing a exploratory data analysis based on top players fighting position and their usage of guns.
       •	 Firts of all the top players usage of gun and top fighting positions are maped .
       •	 The gun choosen by the top players and the general gun performance is compared to find out the best gun for the players.
