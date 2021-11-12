@@ -21,5 +21,10 @@ Projects of data analysis
       • An EMI calculator for a Bank is created.
       • Using the user input i.e interest rate , years , principal amount , the EMI per month is calculated
       • The calculated monthly payment is displayed in a table to make it easy understandabale
+     
+# [Project 5: IPL Dashboard](https://onedrive.live.com/view.aspx?resid=C4E750CC99925501!1390&ithint=file%2cxlsx&authkey=!AGJ6oHuU8vdQfl4)
+      • An dashboard for entire 12 years of IPL is created.
+      • Using the dashboard you can see the different trends of players and teams.
+      • And also information like top run scorer, highest score , most wickets can be seem visually with necessary graphical represantation.
       
       
