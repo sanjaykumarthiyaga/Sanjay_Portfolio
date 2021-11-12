@@ -12,7 +12,7 @@ Projects of data analysis
       •	 The datas are normalised and than algorithm such as KNN , fishers LDA , liner discriminant analysis are applied to find the accuracy.
       •	 On the same dataset the PCA is applied by creating correlation matrix by using the found eigen values and eigen vectors
       •	 Atlast the same accuracy this dataset is also forund and compared with the normal datasets accuracy.
-# [Project 3: TCO calculation for an organisation](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:b1930f3f-5391-4fed-a254-5e953730e3f4)
+# [Project 3: TCO calculation for an organisation](https://github.com/sanjaykumarthiyaga/Total-Cost-expenditure-)
       • Given three organisation A, B and C along with their expnediture data the capex and opex for the organisations are found for 5 years.
       • Using the Capex and Opex for five years , it is than calculated for the next 20 years.
       • Along with the Capex and Opex , the Total cost expenditure of the three organisation are found. 
