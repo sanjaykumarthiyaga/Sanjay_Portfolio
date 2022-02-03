@@ -26,5 +26,6 @@ Projects of data analysis
       • An dashboard for entire 12 years of IPL is created.
       • Using the dashboard you can see the different trends of players and teams.
       • And also information like top run scorer, highest score , most wickets can be seem visually with necessary graphical represantation.
+# [Project 6: Data modelling for Covid19]
       
       
