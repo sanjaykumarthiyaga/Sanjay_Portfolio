@@ -27,5 +27,9 @@ Projects of data analysis
       • Using the dashboard you can see the different trends of players and teams.
       • And also information like top run scorer, highest score , most wickets can be seem visually with necessary graphical represantation.
 # [Project 6: Data modelling for Covid19](https://github.com/sanjaykumarthiyaga/Data-analysis-for-stats19-road-accident-)
-      
+      •The data set are from are stats19 road accident by casualty is used to answer the questions
+      • EDA is done on the dataset to make the data structured to answer the questions.
+      •The severity of accident based on vehicle was found by using relevant dataset from the database
+      •A linear regression is done on the current data to forecast the future count of accidents 
+
       
